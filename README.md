@@ -16,7 +16,7 @@ Category routes: https://drive.google.com/file/d/1AUT19ZozdL4OCkyNoZn6pGyNOdhIYs
 
 Product routes:https://drive.google.com/file/d/1V0zqdjIf6P-jq6QEaC5Us5QlvTi7T9C5/view
 
-## Code Style; HTML, CSS and Javascript/Node.js
+## Code Style; Javascript/Node.js
 
 ## Credit- 
 To the Columbia bootcamp team. Editor Nick Dyke 
